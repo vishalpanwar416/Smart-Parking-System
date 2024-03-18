@@ -65,3 +65,4 @@ python predict.py model='best.pt' source='demo.mp4'
 [![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/lkAJBSmIL50/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=lkAJBSmIL50))
 
 # Smart-Parking-System
+# Smart-Parking-System
